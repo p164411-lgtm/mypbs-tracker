@@ -1,0 +1,8 @@
+{
+  "name": "My PBS Tracker — SK Tanjung Minyak 2",
+  "description": "Aplikasi penjejak Pengalaman Berasaskan Sekolah (PBS) guru pelatih PDPP Pendidikan Moral IPG Kampus Ipoh di SK Tanjung Minyak 2, Melaka. Menampilkan checklist harian, temu bual, pemerhatian, refleksi berpandukan Lampiran 1-5 dan laporan 1200 patah perkataan Lampiran 1-6.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
