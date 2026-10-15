@@ -6,7 +6,8 @@ import {defineConfig} from 'vite';
 export default defineConfig(() => {
   return {
     plugins: [react(), tailwindcss()],
-    resolve: {
+    resolve: { base: '/mypbs-tracker/',
+    plugins: [react(), tailwindcss()],
       alias: {
         '@': path.resolve(__dirname, '.'),
       },
